@@ -1,0 +1,22 @@
+{
+  "general": {
+    "remote_config_version": 3,
+    "app_name": "Live Wallpapers Hub",
+    "theme_color": "#F518A9"
+  },
+  "buttons": {
+    "rate_url": "",
+    "share_text": "",
+    "more_apps_url": "",
+    "show_remove_ads_button": true,
+    "show_premium_button": true
+  },
+  "ads": {
+    "showAds": true,
+    "clicksBeforeInterstitial": 5,
+    "autoShowIntervalSeconds": 0
+  },
+  "sources": {
+    "index_url": "https://YOURDOMAIN/feeds/index.json"
+  }
+}
