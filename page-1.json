@@ -1,0 +1,17 @@
+{
+  "category_key": "anime",
+  "page": 1,
+  "next_page_url": "https://YOURDOMAIN/feeds/anime/page-2.json",
+  "items": [
+    {
+      "id": "anime_0001",
+      "title": "Anime 1",
+      "category": "Anime",
+      "thumbnail": "https://cdn.site.com/t1.jpg",
+      "video_url": "https://cdn.site.com/v1.mp4",
+      "loop": true,
+      "downloadable": true,
+      "premium_only": false
+    }
+  ]
+}
