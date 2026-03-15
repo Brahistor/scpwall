@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "key": "anime",
+      "name": "Anime",
+      "type": "video",
+      "total_items": 24500,
+      "pages": 490,
+      "first_page_url": "https://YOURDOMAIN/feeds/anime/page-1.json"
+    },
+    {
+      "key": "stitch_images",
+      "name": "Stitch Wallpapers",
+      "type": "image",
+      "total_items": 18200,
+      "pages": 182,
+      "first_page_url": "https://YOURDOMAIN/feeds/stitch_images/page-1.json"
+    }
+  ]
+}
